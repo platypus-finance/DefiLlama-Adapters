@@ -98,6 +98,7 @@ module.exports = {
           ALT_USDC_MIM_LP,
           ALT_USDC_YUSD_LP,
           ALT_USDC_MONEY_LP,
+          ALT_USDC_AXLUSDC_LP,
           FACTORY_USDC_H2O_LP,
           FACTORY_USDC_TSD_LP,
           FACTORY_USDC_MAI_LP,
